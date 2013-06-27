@@ -17,5 +17,6 @@ var phrases = [
 	"mimic",
 	"round house kick",
 	"NotAble",
-	"pho sho"
+	"pho sho",
+	"veep"
 ];
