@@ -48,5 +48,8 @@ var phrases = [
 	"michelada",
 	"bloody mary before 12",
 	"bloody maria",
-	"drive safe"
+	"drive safe",
+	"onboarding",
+	"canadian pancake",
+	"homsar"
 ];
