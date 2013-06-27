@@ -44,8 +44,9 @@ var phrases = [
 	"margaritas the size of my head",
 	"pickleback",
 	"lemondrop",
-	"that ginnger cocktail from continental",
+	"that ginger cocktail from continental",
 	"michelada",
 	"bloody mary before 12",
-	"bloody maria"
+	"bloody maria",
+	"drive safe"
 ];
