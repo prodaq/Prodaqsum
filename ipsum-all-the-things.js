@@ -13,9 +13,9 @@ function ipsuMe(){
 			for(k=0; k < getRandom(6, 20); k++){ //how many phrases are in this sentence
 				if (sentence != "") sentence += " "; //add a space before next word if it isnt the first word in the sentence
 
-				var randomWord = getRandom(0, phrases.length-1);
+				var randomWord = getRandom(0, phrases.length);
 				while(randomWord == previousWord){ //picked the same word twice, try again
-					randomWord = getRandom(0, phrases.length-1);
+					randomWord = getRandom(0, phrases.length);
 				}
 				sentence += phrases[randomWord];//pick a word
 				previousWord = randomWord;
