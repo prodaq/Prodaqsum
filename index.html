@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<div id="main">
+			<h1>Prodaqsum</h1>
+			<img src="luchador.jpg">
+			<p>
+				<label># Paragraphs: <input type="text" value="5" id="paranum"></label>
+				<button id="generate">Boom</button>
+			</p>
+		</div>
+		<div id="result"></div>
+		<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+		<script src="dictionary.js"></script>
+		<script src="ipsum-all-the-things.js"></script>
+		<script>
+			$(function(){
+				$('#generate').on('click', function(e){ ipsuMe(); e.preventDefault(); });	
+			})
+		</script>
+	</body>
+</html>

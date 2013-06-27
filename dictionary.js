@@ -1,0 +1,20 @@
+var phrases = [
+	"asstaculous",
+	"endorse",
+	"endorsement",
+	"prodaq",
+	"donq",
+	"LinkedIn",
+	"daqstrap",
+	"seven double-o",
+	"luchador",
+	"mask",
+	"sassless chaps",
+	"hypoluxo",
+	"dark pool liquidity",
+	"short selling",
+	"cost basis",
+	"mimic",
+	"round house kick",
+	"NotAble"
+];
