@@ -16,5 +16,6 @@ var phrases = [
 	"cost basis",
 	"mimic",
 	"round house kick",
-	"NotAble"
+	"NotAble",
+	"pho sho"
 ];
