@@ -54,5 +54,6 @@ var phrases = [
 	"homsar",
 	"dj gig",
 	"return the uhaul",
-	"hello who just joined"
+	"hello who just joined",
+	"asshattery management"
 ];
