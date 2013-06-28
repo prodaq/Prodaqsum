@@ -51,5 +51,8 @@ var phrases = [
 	"drive safe",
 	"onboarding",
 	"canadian pancake",
-	"homsar"
+	"homsar",
+	"dj gig",
+	"return the uhaul",
+	"hello who just joined"
 ];
